@@ -1,5 +1,8 @@
 # PasswordNinja
 
+![Process of Slicing the Passwords](slicing_fig.png)
+
+
 ## Ethical Considerations
 We have used real passwords that belong to individuals that were phished and consequently tricked into revealing their passwords. This raises few ethical issues: whether this in depth analysis will hurt those users? will it reveal any other secrets? will it identify any individuals? This dataset dates back to 2009 and therefore it is highly unlikely that the same users would have kept their passwords the same even if the identity of the individual could be revealed. Identities are highly unlikely to be revealed through our data. We have not used any PII or any other information  that could link back to individuals. This dataset has also been previously used in other research papers.
 
